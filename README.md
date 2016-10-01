@@ -1,1 +1,1 @@
-"# Poll" 
+A poll app in progress.
