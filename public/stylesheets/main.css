@@ -14,6 +14,7 @@
   position: relative;
 }
 
+/*set background opacity while not effecting the text on it.*/
 .question:after {
   content: '';
   position: absolute;
@@ -44,6 +45,7 @@
   padding: 1rem;
 }
 
+/*hide contents for slideDown.*/
 .content {
   display: none;
   text-align: center;
