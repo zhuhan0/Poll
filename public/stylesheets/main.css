@@ -1,0 +1,59 @@
+* {
+  list-style-type: none;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#poll {
+  width: 70%;
+  margin: 5% 15% 5% 15%;
+  border: 2px solid #eee;
+}
+
+.question {
+  padding: 8rem;
+  position: relative;
+}
+
+/*set background opacity while not effecting the text on it.*/
+.question:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background-image: url(https://cdn2.vox-cdn.com/uploads/chorus_asset/file/6521817/overwatch-4k.0.jpg);
+  background-size: cover;
+  background-position: 50% 40%;
+  opacity: .50;
+  z-index: -1;
+}
+
+.question span {
+  font-size: 40px;
+}
+
+.question h4 {
+  font-size: 20px;
+}
+
+#answers {
+  margin: 0 10% 0 10%;
+}
+
+.answers {
+  padding: 1rem;
+}
+
+/*hide contents for slideDown.*/
+.content {
+  display: none;
+  text-align: center;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.content img {
+  width: 90%;
+  padding: 20px;
+}
