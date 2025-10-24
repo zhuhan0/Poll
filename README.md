@@ -1,4 +1,4 @@
-My first real web app. Currently it's a simple poll about the game Overwatch. The app is deployed on Heroku at [here](https://apoll.herokuapp.com/).
+My first real web app. Currently it's simply polling some information about the game Overwatch. The app is deployed on Heroku at [here](https://apoll.herokuapp.com/).
 
 Features to add:
 
