@@ -6,4 +6,3 @@ Features to add:
 2. Make content slide up if user clicks another input.
 3. Add social media share feature.
 
-P.S. I'd like to recommend a great Express tutorial on YouTube: [Part 1](https://www.youtube.com/watch?v=NALxjuyRXaE) [Part 2](https://www.youtube.com/watch?v=TVrfhONc8Jw).
